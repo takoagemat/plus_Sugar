@@ -846,8 +846,6 @@ a.playlist_expander{
 }
 .navbar-brand{
 	float:none;
-  width: 2000px;
-  height: 1057px;
 }
 .navbar-nav{
 	margin-top:10px;
@@ -2417,6 +2415,8 @@ ul.message{
 .top_img02{
 	display: block !important;
     top: 0px;
+    width:2000px;
+    height: 1057px
 }
 .top_img03{
 	display: none !important;
