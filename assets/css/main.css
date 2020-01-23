@@ -135,7 +135,7 @@ h4 { font-size: 40px; }
 h5 { font-size: 30px; }
 h6 { font-size: 22px; }
 img {
-	max-width: 100%;
+	max-width:100%;
 	height: auto;
 }
 h2:after {
