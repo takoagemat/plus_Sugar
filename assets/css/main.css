@@ -35,7 +35,7 @@ Style Sheets
 
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <!--custom styles for Poison-->
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="assets/css/main.css">
 <script src="assets/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 <style>
 .fixed {
@@ -55,9 +55,8 @@ Preloader
 </div>
 <div class="wide_layout box-wide">
   <section id="section_1" class="banner hero_section pc_topimg">
-    <!-- <h1>セルフプロデュースアイドル『+Sugar』公式サイトです。</h1> -->
-    <img src="assets/img/whiteset.jpg" alt="+Sugar" class="top_img02">
-	</section>
+    <!--- <h1>画像の大きさあわねえ</h1> --->
+    <img src="assets/img/whiteset.jpg" alt="+Sugar" class="top_img02"/></section>
   <header>
     <nav id="sticktop" class="navbar navbar-default" data-sticky="true">
       <div class="container">
