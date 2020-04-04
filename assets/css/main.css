@@ -2694,6 +2694,41 @@ video {
 
 
 /* ------------------------------------
+ * MOVIE
+ * ------------------------------------ */
+
+#movie {
+	background:  url(../img/home/bg_movie.png) no-repeat right bottom;
+}
+#movie .movieBox {
+	zoom:1;
+	overflow: hidden;
+	width: 100%;
+	margin: 0 auto;
+}
+#movie .movieBox li {
+	width: 50%;
+	margin-bottom: 2%;
+	float: left;
+}
+
+@media screen and (max-width: 767px) {
+	#movie {
+		background-size: 300px auto;
+		-webkit-background-size: 300px auto;
+		-moz-background-size: 300px auto;
+	}
+	#movie .movieBox li {
+		width: 100%;
+		margin-left: 0;
+		float: none;
+	}
+}
+
+
+
+
+/* ------------------------------------
  * LINE
  * ------------------------------------ */
 
