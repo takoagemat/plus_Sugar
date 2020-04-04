@@ -2726,6 +2726,24 @@ video {
 }
 
 
+.contentBox .inner {
+	width: 1000px;
+	margin: 0 auto;
+	zoom:1;
+}
+
+@media screen and (max-width: 1000px) {
+	.contentBox .inner {
+		width: 96%;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.contentBox .inner {
+		width: 100%;
+	}
+}
+
 
 
 /* ------------------------------------
