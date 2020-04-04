@@ -101,7 +101,7 @@ body {
 =============================*/
 
 .sections_wrapper{
-	background: url(../img/BG/bodyBG.jpg) center center #161616;
+	background: url(../img/BG/bodyBG.jpg) center center #FFF;
 }
 .boxed_in{
 	max-width:1200px;
