@@ -101,7 +101,7 @@ body {
 =============================*/
 
 .sections_wrapper{
-	background: url(../img/BG/bodyBG.jpg) center center #FFF;
+	background: url(../img/white.jpg) center center #161616;
 }
 .boxed_in{
 	max-width:1200px;
@@ -601,7 +601,7 @@ a.playlist_expander{
 .banner h4 { color: #91caf5; }
 .banner h1 { color: #fff; }
 .fraction_wrapper{
-	background: url(../img/BG/bodyBG.jpg) center center #FFF;
+	background: url(../img/white.jpg) center center #161616;
 	padding-top:0;
 	position:relative;
 	padding-bottom:65px;
