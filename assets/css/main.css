@@ -2649,6 +2649,31 @@ ul.profile li h6, ul.message li h6{
 	}
 }
 
+/* ------------------------------------
+ * Movie
+ * ------------------------------------ */
+
+.player {
+	position: relative;
+	width: 94%;
+	margin: 0 auto;
+	padding-top: 56.25%;
+}
+.player iframe,
+.player > div {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+video {
+	display: block;
+	width: 60%;
+	margin: 0;
+}
+
+
 
 /*
 2020.01.28 I modified +sugar.
