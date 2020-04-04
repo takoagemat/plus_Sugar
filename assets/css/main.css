@@ -1,10 +1,10 @@
 /*
-Theme Name: plus_Sugar
-Theme URI:
+Theme Name: Poison
+Theme URI: http://xvelopers.com/
 Description: one Page HTML5 Theme suitable for music bands
 Version: 1.0
-Author: takoagemat
-Author :/
+Author: xvelopers
+Author URI: http://xvelopers.com/
 */
 
 /* 	Table Of Content
@@ -135,7 +135,7 @@ h4 { font-size: 40px; }
 h5 { font-size: 30px; }
 h6 { font-size: 22px; }
 img {
-	max-width:100%;
+	max-width: 100%;
 	height: auto;
 }
 h2:after {
