@@ -2652,6 +2652,14 @@ ul.profile li h6, ul.message li h6{
 
 
  @media screen and (max-width: 767px) {
+ #story .player {
+ 	width: 100%;
+ 	margin: 0 auto;
+ 	padding-top: 56.25%;
+ }
+ }
+
+ @media screen and (max-width: 767px) {
  	.player {
  		width: 100%;
  		margin: 0 auto;
