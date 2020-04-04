@@ -101,7 +101,7 @@ body {
 =============================*/
 
 .sections_wrapper{
-	background: url(../img/white.jpg) center center #161616;
+	background: url(../img/BG/bodyBG.jpg) center center #FFF;
 }
 .boxed_in{
 	max-width:1200px;
@@ -601,7 +601,7 @@ a.playlist_expander{
 .banner h4 { color: #91caf5; }
 .banner h1 { color: #fff; }
 .fraction_wrapper{
-	background: url(../img/white.jpg) center center #161616;
+	background: url(../img/BG/bodyBG.jpg) center center #FFF;
 	padding-top:0;
 	position:relative;
 	padding-bottom:65px;
@@ -2635,6 +2635,21 @@ ul.profile li h6, ul.message li h6{
         display: none ;
     }
 }
+
+
+@media screen and (max-width: 767px) {
+	.player {
+		width: 100%;
+		margin: 0 auto;
+		padding-top: 56.25%;
+}
+	video {
+		width: 100%;
+		margin: 0 auto;
+	}
+}
+
+
 /*
 2020.01.28 I modified +sugar.
 It is a important difference in hers.
