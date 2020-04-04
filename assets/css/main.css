@@ -2637,21 +2637,32 @@ ul.profile li h6, ul.message li h6{
 }
 
 
-@media screen and (max-width: 767px) {
-	.player {
-		width: 100%;
-		margin: 0 auto;
-		padding-top: 56.25%;
-}
-	video {
-		width: 100%;
-		margin: 0 auto;
-	}
-}
+
 
 /* ------------------------------------
  * Movie
  * ------------------------------------ */
+
+
+ #story .player {
+     width: 60%;
+     margin: 0;
+     padding-top: 38%;
+ }
+
+
+ @media screen and (max-width: 767px) {
+ 	.player {
+ 		width: 100%;
+ 		margin: 0 auto;
+ 		padding-top: 56.25%;
+ }
+ 	video {
+ 		width: 100%;
+ 		margin: 0 auto;
+ 	}
+ }
+
 
 .player {
 	position: relative;
