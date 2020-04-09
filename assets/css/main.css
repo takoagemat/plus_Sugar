@@ -1845,6 +1845,13 @@ ul.music_widget > li{
 .about_section .section_head_widget { text-align: center; }
 .about_section .section_head_widget h4,  .about_section .text_widget span { color: #91caf5; }
 
+
+.about_section li{
+	width: 50%;
+  margin-bottom: 2%;
+  float: left;
+}
+
 /*====================================
 20-Footer
 ===================================*/
