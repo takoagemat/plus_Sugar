@@ -2635,6 +2635,30 @@ ul.profile li h6, ul.message li h6{
         display: none ;
     }
 }
+
+
+/*====================================
+Movie
+===================================*/
+
+#movie .movieBox {
+	zoom:1;
+	overflow: hidden;
+	width: 100%;
+	margin: 0 auto;
+}
+#movie .movieBox li {
+	width: 50%;
+	margin-bottom: 2%;
+	float: left;
+}
+
+
+
+
+
+
+
 /*
 2020.01.28 I modified +sugar.
 It is a important difference in hers.
