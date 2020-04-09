@@ -1846,10 +1846,25 @@ ul.music_widget > li{
 .about_section .section_head_widget h4,  .about_section .text_widget span { color: #91caf5; }
 
 
+
+#write
 .about_section li{
 	width: 50%;
   margin-bottom: 2%;
   float: left;
+}
+
+@media screen and (max-width: 767px) {
+	#movie {
+		background-size: 300px auto;
+		-webkit-background-size: 300px auto;
+		-moz-background-size: 300px auto;
+	}
+	#movie .movieBox li {
+		width: 100%;
+		margin-left: 0;
+		float: none;
+	}
 }
 
 /*====================================
