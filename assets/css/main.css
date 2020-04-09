@@ -1849,7 +1849,7 @@ ul.music_widget > li{
 
 #write
 .about_section li{
-	width: 50%;
+	width: 100%;
   margin-bottom: 2%;
   float: left;
 }
