@@ -1851,7 +1851,6 @@ ul.music_widget > li{
 .about_section li{
 	width: 100%;
   margin-bottom: 2%;
-  float: left;
 }
 
 @media screen and (max-width: 767px) {
