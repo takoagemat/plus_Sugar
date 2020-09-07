@@ -1860,9 +1860,9 @@ ul.music_widget > li{
 		-moz-background-size: 300px auto;
 	}
 	#movie .movieBox li {
-		width: 30%;
+		width:100%;
 		margin-left: 0;
-		float: left;
+		float:left;
 	}
 }
 
